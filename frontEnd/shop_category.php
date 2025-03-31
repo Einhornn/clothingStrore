@@ -37,13 +37,13 @@
                         </div>
                         <div class="top_right">
                             <ul>
-                                <li><a href="login.html">Đăng nhập/Đăng ký</a></li>
+                                <li><a href="login.php">Đăng nhập/Đăng ký</a></li>
                             </ul>
                             <ul>
                                <!-- <li class="top_links"><a href="#">Cá nhân <i class="ion-chevron-down"></i></a>
                                     <ul class="dropdown_links">
-                                        <li><a href="wishlist.html">Yêu thích </a></li>
-                                        <li><a href="my-account.html">Tài khoản</a></li>
+                                        <li><a href="wishlist.php">Yêu thích </a></li>
+                                        <li><a href="my-account.php">Tài khoản</a></li>
                                         <li><a href="#">Đăng ký</a></li>
                                     </ul>
                                 </li> -->
@@ -76,7 +76,7 @@
                         <div class="cart_area">
                             <div class="middel_links">
                                <ul>
-                                   <li><a href="login.html">Đăng nhập/Đăng ký</a></li>
+                                   <li><a href="login.php">Đăng nhập/Đăng ký</a></li>
                                </ul>
 
                             </div>
@@ -86,15 +86,15 @@
                                 <li class="menu-item-has-children active">
                                     <a href="#">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home 1</a></li>
-                                        <li><a href="index-2.html">Home 2</a></li>
-                                        <li><a href="index-3.html">Home 3</a></li>
-                                        <li><a href="index-4.html">Home 4</a></li>
-                                        <li><a href="index-5.html">Home 5</a></li>
-                                        <li><a href="index-6.html">Home 6</a></li>
-                                        <li><a href="index-7.html">Home 7</a></li>
-                                        <li><a href="index-8.html">Home 8</a></li>
-                                         <li><a href="index-9.html">Home 9</a></li>
+                                        <li><a href="index.php">Home 1</a></li>
+                                        <li><a href="index-2.php">Home 2</a></li>
+                                        <li><a href="index-3.php">Home 3</a></li>
+                                        <li><a href="index-4.php">Home 4</a></li>
+                                        <li><a href="index-5.php">Home 5</a></li>
+                                        <li><a href="index-6.php">Home 6</a></li>
+                                        <li><a href="index-7.php">Home 7</a></li>
+                                        <li><a href="index-8.php">Home 8</a></li>
+                                         <li><a href="index-9.php">Home 9</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -103,31 +103,31 @@
                                         <li class="menu-item-has-children">
                                             <a href="#">Shop Layouts</a>
                                             <ul class="sub-menu">
-                                                <li><a href="shop.html">shop</a></li>
-                                                <li><a href="shop-fullwidth.html">Full Width</a></li>
-                                                <li><a href="shop-fullwidth-list.html">Full Width list</a></li>
-                                                <li><a href="shop-right-sidebar.html">Right Sidebar </a></li>
-                                                <li><a href="shop-right-sidebar-list.html"> Right Sidebar list</a></li>
-                                                <li><a href="shop-list.html">List View</a></li>
+                                                <li><a href="shop.php">shop</a></li>
+                                                <li><a href="shop-fullwidth.php">Full Width</a></li>
+                                                <li><a href="shop-fullwidth-list.php">Full Width list</a></li>
+                                                <li><a href="shop-right-sidebar.php">Right Sidebar </a></li>
+                                                <li><a href="shop-right-sidebar-list.php"> Right Sidebar list</a></li>
+                                                <li><a href="shop-list.php">List View</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">other Pages</a>
                                             <ul class="sub-menu">
-                                                <li><a href="portfolio.html">portfolio</a></li>
-                                                <li><a href="portfolio-details.html">portfolio details</a></li>
-                                                <li><a href="cart.html">cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="my-account.html">my account</a></li>
+                                                <li><a href="portfolio.php">portfolio</a></li>
+                                                <li><a href="portfolio-details.php">portfolio details</a></li>
+                                                <li><a href="cart.php">cart</a></li>
+                                                <li><a href="checkout.php">Checkout</a></li>
+                                                <li><a href="my-account.php">my account</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">Product Types</a>
                                             <ul class="sub-menu">
-                                                <li><a href="product-details.html">product details</a></li>
-                                                <li><a href="product-sidebar.html">product sidebar</a></li>
-                                                <li><a href="product-grouped.html">product grouped</a></li>
-                                                <li><a href="variable-product.html">product variable</a></li>
+                                                <li><a href="product-details.php">product details</a></li>
+                                                <li><a href="product-sidebar.php">product sidebar</a></li>
+                                                <li><a href="product-grouped.php">product grouped</a></li>
+                                                <li><a href="variable-product.php">product variable</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -135,19 +135,19 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">pages </a>
                                     <ul class="sub-menu">
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="services.html">services</a></li>
-                                        <li><a href="coming-soon.html">coming soon</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="services.php">services</a></li>
+                                        <li><a href="coming-soon.php">coming soon</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="my-account.html">my account</a>
+                                    <a href="my-account.php">my account</a>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="about.html">About Us</a>
+                                    <a href="about.php">About Us</a>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="contact.html"> Contact Us</a> 
+                                    <a href="contact.php"> Contact Us</a> 
                                 </li>
                             </ul>
                         </div>
@@ -184,19 +184,19 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="logo">
-                                <a href="index.html"><img src="../assets/img/logo/1.logo.jpg" alt=""></a>
+                                <a href="index.php"><img src="../assets/img/logo/1.logo.jpg" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="cart_area">
                                 <div class="account_area">
                                     <div class="account_link">
-                                        <a href="login.html"><i class="fa fa-user"></i> <span class="account-text">Đăng nhập</span></a>
+                                        <a href="login.php"><i class="fa fa-user"></i> <span class="account-text">Đăng nhập</span></a>
                                         <!-- <div class="account_dropdown">
                                             <ul>
-                                                <li><a href="wishlist.html">Yêu thích</a></li>
-                                                <li><a href="my-account.html">Thông tin tài khoản</a></li>
-                                                <li><a href="logout.html">Đăng xuất</a></li>
+                                                <li><a href="wishlist.php">Yêu thích</a></li>
+                                                <li><a href="my-account.php">Thông tin tài khoản</a></li>
+                                                <li><a href="logout.php">Đăng xuất</a></li>
                                             </ul>
                                         </div> -->
                                     </div>
@@ -247,10 +247,10 @@
                                     </div>
                                     
                                     <div class="cart_button view_cart">
-                                        <a href="cart.html">View Cart</a>
+                                        <a href="cart.php">View Cart</a>
                                     </div>
                                     <div class="cart_button checkout">
-                                        <a href="checkout.html">Checkout</a>
+                                        <a href="checkout.php">Checkout</a>
                                     </div>
                                     </div>
                                 </div>
@@ -263,82 +263,82 @@
                         <div class="main_menu"> 
                             <nav>  
                                 <ul>
-                                    <li class="active"><a href="index.html">Home <i class="fa fa-angle-down"></i></a>
+                                    <li class="active"><a href="index.php">Home <i class="fa fa-angle-down"></i></a>
                                         <ul class="sub_menu">
-                                            <li><a href="index.html">Home 1</a></li>
-                                            <li><a href="index-2.html">Home 2</a></li>
-                                            <li><a href="index-3.html">Home 3</a></li>
-                                            <li><a href="index-4.html">Home 4</a></li>
-                                            <li><a href="index-5.html">Home 5</a></li>
-                                            <li><a href="index-6.html">Home 6</a></li>
-                                            <li><a href="index-7.html">Home 7</a></li>
-                                            <li><a href="index-8.html">Home 8</a></li>
+                                            <li><a href="index.php">Home 1</a></li>
+                                            <li><a href="index-2.php">Home 2</a></li>
+                                            <li><a href="index-3.php">Home 3</a></li>
+                                            <li><a href="index-4.php">Home 4</a></li>
+                                            <li><a href="index-5.php">Home 5</a></li>
+                                            <li><a href="index-6.php">Home 6</a></li>
+                                            <li><a href="index-7.php">Home 7</a></li>
+                                            <li><a href="index-8.php">Home 8</a></li>
                                         </ul>
                                     </li>
-                                    <li class="mega_items"><a href="shop.html">shop <i class="fa fa-angle-down"></i></a>
+                                    <li class="mega_items"><a href="shop.php">shop <i class="fa fa-angle-down"></i></a>
                                         <ul class="mega_menu">
                                             <li><a href="#">Shop Layouts</a>
                                                 <ul>
-                                                    <li><a href="shop-fullwidth.html">Full Width</a></li>
-                                                    <li><a href="shop-fullwidth-list.html">Full Width list</a></li>
-                                                    <li><a href="shop-right-sidebar.html">Right Sidebar </a></li>
-                                                    <li><a href="shop-right-sidebar-list.html"> Right Sidebar list</a></li>
-                                                    <li><a href="shop-list.html">List View</a></li>
+                                                    <li><a href="shop-fullwidth.php">Full Width</a></li>
+                                                    <li><a href="shop-fullwidth-list.php">Full Width list</a></li>
+                                                    <li><a href="shop-right-sidebar.php">Right Sidebar </a></li>
+                                                    <li><a href="shop-right-sidebar-list.php"> Right Sidebar list</a></li>
+                                                    <li><a href="shop-list.php">List View</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">other Pages</a>
                                                 <ul>
-                                                    <li><a href="portfolio.html">portfolio</a></li>
-                                                    <li><a href="portfolio-details.html">portfolio details</a></li>
-                                                    <li><a href="cart.html">cart</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="my-account.html">my account</a></li>
+                                                    <li><a href="portfolio.php">portfolio</a></li>
+                                                    <li><a href="portfolio-details.php">portfolio details</a></li>
+                                                    <li><a href="cart.php">cart</a></li>
+                                                    <li><a href="checkout.php">Checkout</a></li>
+                                                    <li><a href="my-account.php">my account</a></li>
 
 
                                                 </ul>
                                             </li>
                                             <li><a href="#">Product Types</a>
                                                 <ul>
-                                                    <li><a href="product-details.html">product details</a></li>
-                                                    <li><a href="product-sidebar.html">product sidebar</a></li>
-                                                    <li><a href="product-gallery.html">product gallery</a></li>
-                                                    <li><a href="product-grouped.html">product grouped</a></li>
-                                                    <li><a href="variable-product.html">product variable</a></li>
+                                                    <li><a href="product-details.php">product details</a></li>
+                                                    <li><a href="product-sidebar.php">product sidebar</a></li>
+                                                    <li><a href="product-gallery.php">product gallery</a></li>
+                                                    <li><a href="product-grouped.php">product grouped</a></li>
+                                                    <li><a href="variable-product.php">product variable</a></li>
 
                                                 </ul>
                                             </li>
                                             <li><a href="#">collection</a>
                                                 <ul>
-                                                    <li><a href="shop.html">Handbag</a></li>
-                                                    <li><a href="shop.html">Accessories</a></li>
-                                                    <li><a href="shop.html">Clothing</a></li>
-                                                    <li><a href="shop.html">Shoes</a></li>
-                                                    <li><a href="shop.html">Check Trousers</a></li>
+                                                    <li><a href="shop.php">Handbag</a></li>
+                                                    <li><a href="shop.php">Accessories</a></li>
+                                                    <li><a href="shop.php">Clothing</a></li>
+                                                    <li><a href="shop.php">Shoes</a></li>
+                                                    <li><a href="shop.php">Check Trousers</a></li>
 
                                                 </ul>
                                             </li>
                                             <li class="banner_menu"><a href="#"><img src="../assets/img/bg/banner1.jpg" alt=""></a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="blog.html">blog <i class="fa fa-angle-down"></i></a>
+                                    <li><a href="blog.php">blog <i class="fa fa-angle-down"></i></a>
                                         <ul class="sub_menu pages">
-                                            <li><a href="blog-details.html">blog details</a></li>
-                                            <li><a href="blog-sidebar.html">blog  Sidebar</a></li>
-                                            <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
+                                            <li><a href="blog-details.php">blog details</a></li>
+                                            <li><a href="blog-sidebar.php">blog  Sidebar</a></li>
+                                            <li><a href="blog-fullwidth.php">blog fullwidth</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">pages <i class="fa fa-angle-down"></i></a>
                                         <ul class="sub_menu pages">
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="services.html">services</a></li>
-                                            <li><a href="faq.html">Frequently Questions</a></li>
-                                            <li><a href="login.html">login</a></li>
-                                            <li><a href="my-account.html">my account</a></li>
-                                            <li><a href="wishlist.html">Wishlist</a></li>
-                                            <li><a href="404.html">Error 404</a></li>
-                                            <li><a href="compare.html">compare</a></li>
-                                            <li><a href="privacy-policy.html">privacy policy</a></li>
-                                            <li><a href="coming-soon.html">coming soon</a></li>
+                                            <li><a href="about.php">About Us</a></li>
+                                            <li><a href="services.php">services</a></li>
+                                            <li><a href="faq.php">Frequently Questions</a></li>
+                                            <li><a href="login.php">login</a></li>
+                                            <li><a href="my-account.php">my account</a></li>
+                                            <li><a href="wishlist.php">Wishlist</a></li>
+                                            <li><a href="404.php">Error 404</a></li>
+                                            <li><a href="compare.php">compare</a></li>
+                                            <li><a href="privacy-policy.php">privacy policy</a></li>
+                                            <li><a href="coming-soon.php">coming soon</a></li>
                                         </ul>
                                     </li>
                                 </ul> 
@@ -346,7 +346,7 @@
                         </div>
                     </div> -->
                     <!-- <div class="logo_container">
-                        <a href="index.html"><img src="../assets/img/logo/logo.png" alt=""></a>
+                        <a href="index.php"><img src="../assets/img/logo/logo.png" alt=""></a>
                     </div>
                     <div class="right_menu">
                         <div class="main_menu"> 
@@ -354,8 +354,8 @@
                                 <ul>
                                     <li><a href="#">Specials</a></li>
                                     <li><a href="#">Sneaker</a></li>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="contact.php">Contact Us</a></li>
                                 </ul> 
                             </nav> 
                         </div>
@@ -372,7 +372,7 @@
                             <div class="main_menu"> 
                                 <nav>  
                                     <ul>
-                                        <li class="active"><a href="index.html">Trang chủ </a></li>
+                                        <li class="active"><a href="index.php">Trang chủ </a></li>
                                         <li><a href="#">Danh mục <i class="fa fa-angle-down"></i></a>
                                             <ul class="sub_menu pages">
                                                 <li><a href="#">Áo</a></li>
@@ -382,9 +382,9 @@
                                                 <li><a href="#">Phụ kiện khác</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="shop_category.html">Sản phẩm </a></li>
-                                        <li><a href="about.html">About us</a></li>
-                                        <li><a href="contact.html">Liên hệ</a></li>
+                                        <li><a href="shop_category.php">Sản phẩm </a></li>
+                                        <li><a href="about.php">About us</a></li>
+                                        <li><a href="contact.php">Liên hệ</a></li>
                                     </ul>   
                                 </nav> 
                             </div>
@@ -404,7 +404,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_content">
                         <ul>
-                            <li><a href="index.html">home</a></li>
+                            <li><a href="index.php">home</a></li>
                             <li>/</li>
                             <li>shop</li>
                         </ul>
@@ -534,11 +534,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product15.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product16.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product15.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product16.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="double_base">
@@ -552,14 +552,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -584,11 +584,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product22.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product23.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product22.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product23.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="label_product">
@@ -597,13 +597,13 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Koss KPH7 Portable</a></h3>
+                                        <h3><a href="product-details.php">Koss KPH7 Portable</a></h3>
                                         <span class="current_price">£60.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Koss KPH7 Portable</a></h3>
+                                        <h3><a href="product-details.php">Koss KPH7 Portable</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -628,11 +628,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product10.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product11.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product10.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product11.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="double_base">
@@ -646,14 +646,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Beats Solo2 Solo 2</a></h3>
+                                        <h3><a href="product-details.php">Beats Solo2 Solo 2</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Beats Solo2 Solo 2</a></h3>
+                                        <h3><a href="product-details.php">Beats Solo2 Solo 2</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -678,11 +678,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product17.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product18.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product17.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product18.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="label_product">
@@ -691,14 +691,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Beats EP Wired</a></h3>
+                                        <h3><a href="product-details.php">Beats EP Wired</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Beats EP Wired</a></h3>
+                                        <h3><a href="product-details.php">Beats EP Wired</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -722,11 +722,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product19.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product20.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product19.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product20.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="product_sale">
@@ -735,14 +735,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Bose SoundLink Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Bose SoundLink Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Bose SoundLink Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Bose SoundLink Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -767,11 +767,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product21.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product22.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product21.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product22.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="double_base">
@@ -785,14 +785,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Apple iPhone SE 16GB</a></h3>
+                                        <h3><a href="product-details.php">Apple iPhone SE 16GB</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Apple iPhone SE 16GB</a></h3>
+                                        <h3><a href="product-details.php">Apple iPhone SE 16GB</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -816,11 +816,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product23.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product24.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product23.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product24.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="product_sale">
@@ -829,14 +829,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Beats Solo Wireless</a></h3>
+                                        <h3><a href="product-details.php">Beats Solo Wireless</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Beats Solo Wireless</a></h3>
+                                        <h3><a href="product-details.php">Beats Solo Wireless</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -861,11 +861,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product25.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product26.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product25.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product26.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="label_product">
@@ -874,13 +874,13 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Apple iPad with Retina</a></h3>
+                                        <h3><a href="product-details.php">Apple iPad with Retina</a></h3>
                                         <span class="current_price">£60.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Apple iPad with Retina</a></h3>
+                                        <h3><a href="product-details.php">Apple iPad with Retina</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -905,11 +905,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product27.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product28.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product27.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product28.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="product_sale">
@@ -918,14 +918,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -950,11 +950,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product2.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product1.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product2.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product1.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
                                          <div class="label_product">
                                             <span>new</span>
@@ -962,13 +962,13 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">JBL Flip 3 Portable</a></h3>
+                                        <h3><a href="product-details.php">JBL Flip 3 Portable</a></h3>
                                         <span class="current_price">£60.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">JBL Flip 3 Portable</a></h3>
+                                        <h3><a href="product-details.php">JBL Flip 3 Portable</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -993,11 +993,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product3.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product4.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product3.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product4.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="product_sale">
@@ -1006,14 +1006,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -1038,11 +1038,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product5.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product6.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product5.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product6.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="double_base">
@@ -1056,13 +1056,13 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -1087,11 +1087,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product7.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product8.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product7.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product8.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="product_sale">
@@ -1100,14 +1100,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -1132,11 +1132,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product9.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product10.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product9.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product10.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="product_sale">
@@ -1145,14 +1145,14 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                         <span class="old_price">£86.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -1177,11 +1177,11 @@
                             <div class="col-lg-4 col-md-4 col-12 ">
                                 <div class="single_product">
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-details.html"><img src="../assets/img/product/product11.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-details.html"><img src="../assets/img/product/product12.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-details.php"><img src="../assets/img/product/product11.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-details.php"><img src="../assets/img/product/product12.jpg" alt=""></a>
 
                                         <div class="quick_button">
-                                            <a href="product-details.html"title="quick_view">Xem sản phẩm</a>
+                                            <a href="product-details.php"title="quick_view">Xem sản phẩm</a>
                                         </div>
 
                                         <div class="label_product">
@@ -1190,13 +1190,13 @@
                                     </div>
                                     
                                     <div class="product_content grid_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <span class="current_price">£60.00</span>
                                     </div>
                                     
                                     
                                     <div class="product_content list_content">
-                                        <h3><a href="product-details.html">Marshall Portable  Bluetooth</a></h3>
+                                        <h3><a href="product-details.php">Marshall Portable  Bluetooth</a></h3>
                                         <div class="product_ratting">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -1251,9 +1251,9 @@
                             <h3>Thông tin</h3>
                             <div class="footer_menu">
                                 <ul>
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="about.php">About Us</a></li>
                                     <li><a href="#">Chính sách vận chuyển</a></li>
-                                    <li><a href="contact.html">Liên hệ</a></li>
+                                    <li><a href="contact.php">Liên hệ</a></li>
                                     <li><a href="#">Đổi, trả hàng</a></li>
                                 </ul>
                             </div>

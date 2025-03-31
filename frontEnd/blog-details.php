@@ -51,10 +51,10 @@
                             <ul>
                                <li class="top_links"><a href="#">My Account <i class="ion-chevron-down"></i></a>
                                     <ul class="dropdown_links">
-                                        <li><a href="wishlist.html">My Wish List </a></li>
-                                        <li><a href="my-account.html">My Account </a></li>
+                                        <li><a href="wishlist.php">My Wish List </a></li>
+                                        <li><a href="my-account.php">My Account </a></li>
                                         <li><a href="#">Sign In</a></li>
-                                        <li><a href="compare.html">Compare Products  </a></li>
+                                        <li><a href="compare.php">Compare Products  </a></li>
                                     </ul>
                                 </li> 
                                 <li class="language"><a href="#"><img src="assets/img/logo/language.png" alt=""> English <i class="ion-chevron-down"></i></a>
@@ -93,9 +93,9 @@
                         <div class="cart_area">
                             <div class="middel_links">
                                <ul>
-                                   <li><a href="login.html">Login</a></li>
+                                   <li><a href="login.php">Login</a></li>
                                    <li>/</li>
-                                   <li><a href="login.html">Register</a></li>
+                                   <li><a href="login.php">Register</a></li>
                                </ul>
 
                             </div>
@@ -146,10 +146,10 @@
                                     </div>
                                     
                                     <div class="cart_button view_cart">
-                                        <a href="cart.html">View Cart</a>
+                                        <a href="cart.php">View Cart</a>
                                     </div>
                                     <div class="cart_button checkout">
-                                        <a href="checkout.html">Checkout</a>
+                                        <a href="checkout.php">Checkout</a>
                                     </div>
                                 </div>
                                 <!--mini cart end-->
@@ -163,15 +163,15 @@
                                 <li class="menu-item-has-children active">
                                     <a href="#">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home 1</a></li>
-                                        <li><a href="index-2.html">Home 2</a></li>
-                                        <li><a href="index-3.html">Home 3</a></li>
-                                        <li><a href="index-4.html">Home 4</a></li>
-                                        <li><a href="index-5.html">Home 5</a></li>
-                                        <li><a href="index-6.html">Home 6</a></li>
-                                        <li><a href="index-7.html">Home 7</a></li>
-                                        <li><a href="index-8.html">Home 8</a></li>
-                                         <li><a href="index-9.html">Home 9</a></li>
+                                        <li><a href="index.php">Home 1</a></li>
+                                        <li><a href="index-2.php">Home 2</a></li>
+                                        <li><a href="index-3.php">Home 3</a></li>
+                                        <li><a href="index-4.php">Home 4</a></li>
+                                        <li><a href="index-5.php">Home 5</a></li>
+                                        <li><a href="index-6.php">Home 6</a></li>
+                                        <li><a href="index-7.php">Home 7</a></li>
+                                        <li><a href="index-8.php">Home 8</a></li>
+                                         <li><a href="index-9.php">Home 9</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -180,31 +180,31 @@
                                         <li class="menu-item-has-children">
                                             <a href="#">Shop Layouts</a>
                                             <ul class="sub-menu">
-                                                <li><a href="shop.html">shop</a></li>
-                                                <li><a href="shop-fullwidth.html">Full Width</a></li>
-                                                <li><a href="shop-fullwidth-list.html">Full Width list</a></li>
-                                                <li><a href="shop-right-sidebar.html">Right Sidebar </a></li>
-                                                <li><a href="shop-right-sidebar-list.html"> Right Sidebar list</a></li>
-                                                <li><a href="shop-list.html">List View</a></li>
+                                                <li><a href="shop.php">shop</a></li>
+                                                <li><a href="shop-fullwidth.php">Full Width</a></li>
+                                                <li><a href="shop-fullwidth-list.php">Full Width list</a></li>
+                                                <li><a href="shop-right-sidebar.php">Right Sidebar </a></li>
+                                                <li><a href="shop-right-sidebar-list.php"> Right Sidebar list</a></li>
+                                                <li><a href="shop-list.php">List View</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">other Pages</a>
                                             <ul class="sub-menu">
-                                                <li><a href="portfolio.html">portfolio</a></li>
-                                                <li><a href="portfolio-details.html">portfolio details</a></li>
-                                                <li><a href="cart.html">cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="my-account.html">my account</a></li>
+                                                <li><a href="portfolio.php">portfolio</a></li>
+                                                <li><a href="portfolio-details.php">portfolio details</a></li>
+                                                <li><a href="cart.php">cart</a></li>
+                                                <li><a href="checkout.php">Checkout</a></li>
+                                                <li><a href="my-account.php">my account</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">Product Types</a>
                                             <ul class="sub-menu">
-                                                <li><a href="product-details.html">product details</a></li>
-                                                <li><a href="product-sidebar.html">product sidebar</a></li>
-                                                <li><a href="product-grouped.html">product grouped</a></li>
-                                                <li><a href="variable-product.html">product variable</a></li>
+                                                <li><a href="product-details.php">product details</a></li>
+                                                <li><a href="product-sidebar.php">product sidebar</a></li>
+                                                <li><a href="product-grouped.php">product grouped</a></li>
+                                                <li><a href="variable-product.php">product variable</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -212,36 +212,36 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">blog</a>
                                     <ul class="sub-menu">
-                                        <li><a href="blog.html">blog</a></li>
-                                        <li><a href="blog-details.html">blog details</a></li>
-                                        <li><a href="blog-sidebar.html">blog  Sidebar</a></li>
-                                        <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
+                                        <li><a href="blog.php">blog</a></li>
+                                        <li><a href="blog-details.php">blog details</a></li>
+                                        <li><a href="blog-sidebar.php">blog  Sidebar</a></li>
+                                        <li><a href="blog-fullwidth.php">blog fullwidth</a></li>
                                     </ul>
 
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a href="#">pages </a>
                                     <ul class="sub-menu">
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="services.html">services</a></li>
-                                        <li><a href="faq.html">Frequently Questions</a></li>
-                                        <li><a href="contact.html">contact</a></li>
-                                        <li><a href="login.html">login</a></li>
-                                        <li><a href="wishlist.html">Wishlist</a></li>
-                                        <li><a href="404.html">Error 404</a></li>
-                                        <li><a href="compare.html">compare</a></li>
-                                        <li><a href="privacy-policy.html">privacy policy</a></li>
-                                        <li><a href="coming-soon.html">coming soon</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="services.php">services</a></li>
+                                        <li><a href="faq.php">Frequently Questions</a></li>
+                                        <li><a href="contact.php">contact</a></li>
+                                        <li><a href="login.php">login</a></li>
+                                        <li><a href="wishlist.php">Wishlist</a></li>
+                                        <li><a href="404.php">Error 404</a></li>
+                                        <li><a href="compare.php">compare</a></li>
+                                        <li><a href="privacy-policy.php">privacy policy</a></li>
+                                        <li><a href="coming-soon.php">coming soon</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="my-account.html">my account</a>
+                                    <a href="my-account.php">my account</a>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="about.html">About Us</a>
+                                    <a href="about.php">About Us</a>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="contact.html"> Contact Us</a> 
+                                    <a href="contact.php"> Contact Us</a> 
                                 </li>
                             </ul>
                         </div>
@@ -281,10 +281,10 @@
                             <ul>
                                <li class="top_links"><a href="#">My Account <i class="ion-chevron-down"></i></a>
                                     <ul class="dropdown_links">
-                                        <li><a href="wishlist.html">My Wish List </a></li>
-                                        <li><a href="my-account.html">My Account </a></li>
+                                        <li><a href="wishlist.php">My Wish List </a></li>
+                                        <li><a href="my-account.php">My Account </a></li>
                                         <li><a href="#">Sign In</a></li>
-                                        <li><a href="compare.html">Compare Products  </a></li>
+                                        <li><a href="compare.php">Compare Products  </a></li>
                                     </ul>
                                 </li> 
                             </ul>
@@ -310,7 +310,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -362,10 +362,10 @@
                                     </div>
                                     
                                     <div class="cart_button view_cart">
-                                        <a href="cart.html">View Cart</a>
+                                        <a href="cart.php">View Cart</a>
                                     </div>
                                     <div class="cart_button checkout">
-                                        <a href="checkout.html">Checkout</a>
+                                        <a href="checkout.php">Checkout</a>
                                     </div>
                                     </div>
                                     <!--mini cart end-->
@@ -379,82 +379,82 @@
                         <div class="main_menu"> 
                             <nav>  
                                 <ul>
-                                    <li class="active"><a href="index.html">Home <i class="fa fa-angle-down"></i></a>
+                                    <li class="active"><a href="index.php">Home <i class="fa fa-angle-down"></i></a>
                                         <ul class="sub_menu">
-                                            <li><a href="index.html">Home 1</a></li>
-                                            <li><a href="index-2.html">Home 2</a></li>
-                                            <li><a href="index-3.html">Home 3</a></li>
-                                            <li><a href="index-4.html">Home 4</a></li>
-                                            <li><a href="index-5.html">Home 5</a></li>
-                                            <li><a href="index-6.html">Home 6</a></li>
-                                            <li><a href="index-7.html">Home 7</a></li>
-                                            <li><a href="index-8.html">Home 8</a></li>
+                                            <li><a href="index.php">Home 1</a></li>
+                                            <li><a href="index-2.php">Home 2</a></li>
+                                            <li><a href="index-3.php">Home 3</a></li>
+                                            <li><a href="index-4.php">Home 4</a></li>
+                                            <li><a href="index-5.php">Home 5</a></li>
+                                            <li><a href="index-6.php">Home 6</a></li>
+                                            <li><a href="index-7.php">Home 7</a></li>
+                                            <li><a href="index-8.php">Home 8</a></li>
                                         </ul>
                                     </li>
-                                    <li class="mega_items"><a href="shop.html">shop <i class="fa fa-angle-down"></i></a>
+                                    <li class="mega_items"><a href="shop.php">shop <i class="fa fa-angle-down"></i></a>
                                         <ul class="mega_menu">
                                             <li><a href="#">Shop Layouts</a>
                                                 <ul>
-                                                    <li><a href="shop-fullwidth.html">Full Width</a></li>
-                                                    <li><a href="shop-fullwidth-list.html">Full Width list</a></li>
-                                                    <li><a href="shop-right-sidebar.html">Right Sidebar </a></li>
-                                                    <li><a href="shop-right-sidebar-list.html"> Right Sidebar list</a></li>
-                                                    <li><a href="shop-list.html">List View</a></li>
+                                                    <li><a href="shop-fullwidth.php">Full Width</a></li>
+                                                    <li><a href="shop-fullwidth-list.php">Full Width list</a></li>
+                                                    <li><a href="shop-right-sidebar.php">Right Sidebar </a></li>
+                                                    <li><a href="shop-right-sidebar-list.php"> Right Sidebar list</a></li>
+                                                    <li><a href="shop-list.php">List View</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">other Pages</a>
                                                 <ul>
-                                                    <li><a href="portfolio.html">portfolio</a></li>
-                                                    <li><a href="portfolio-details.html">portfolio details</a></li>
-                                                    <li><a href="cart.html">cart</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="my-account.html">my account</a></li>
+                                                    <li><a href="portfolio.php">portfolio</a></li>
+                                                    <li><a href="portfolio-details.php">portfolio details</a></li>
+                                                    <li><a href="cart.php">cart</a></li>
+                                                    <li><a href="checkout.php">Checkout</a></li>
+                                                    <li><a href="my-account.php">my account</a></li>
 
 
                                                 </ul>
                                             </li>
                                             <li><a href="#">Product Types</a>
                                                 <ul>
-                                                    <li><a href="product-details.html">product details</a></li>
-                                                    <li><a href="product-sidebar.html">product sidebar</a></li>
-                                                    <li><a href="product-gallery.html">product gallery</a></li>
-                                                    <li><a href="product-grouped.html">product grouped</a></li>
-                                                    <li><a href="variable-product.html">product variable</a></li>
+                                                    <li><a href="product-details.php">product details</a></li>
+                                                    <li><a href="product-sidebar.php">product sidebar</a></li>
+                                                    <li><a href="product-gallery.php">product gallery</a></li>
+                                                    <li><a href="product-grouped.php">product grouped</a></li>
+                                                    <li><a href="variable-product.php">product variable</a></li>
 
                                                 </ul>
                                             </li>
                                             <li><a href="#">collection</a>
                                                 <ul>
-                                                    <li><a href="shop.html">Handbag</a></li>
-                                                    <li><a href="shop.html">Accessories</a></li>
-                                                    <li><a href="shop.html">Clothing</a></li>
-                                                    <li><a href="shop.html">Shoes</a></li>
-                                                    <li><a href="shop.html">Check Trousers</a></li>
+                                                    <li><a href="shop.php">Handbag</a></li>
+                                                    <li><a href="shop.php">Accessories</a></li>
+                                                    <li><a href="shop.php">Clothing</a></li>
+                                                    <li><a href="shop.php">Shoes</a></li>
+                                                    <li><a href="shop.php">Check Trousers</a></li>
 
                                                 </ul>
                                             </li>
                                             <li class="banner_menu"><a href="#"><img src="assets/img/bg/banner1.jpg" alt=""></a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="blog.html">blog <i class="fa fa-angle-down"></i></a>
+                                    <li><a href="blog.php">blog <i class="fa fa-angle-down"></i></a>
                                         <ul class="sub_menu pages">
-                                            <li><a href="blog-details.html">blog details</a></li>
-                                            <li><a href="blog-sidebar.html">blog  Sidebar</a></li>
-                                            <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
+                                            <li><a href="blog-details.php">blog details</a></li>
+                                            <li><a href="blog-sidebar.php">blog  Sidebar</a></li>
+                                            <li><a href="blog-fullwidth.php">blog fullwidth</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">pages <i class="fa fa-angle-down"></i></a>
                                         <ul class="sub_menu pages">
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="services.html">services</a></li>
-                                            <li><a href="faq.html">Frequently Questions</a></li>
-                                            <li><a href="login.html">login</a></li>
-                                            <li><a href="my-account.html">my account</a></li>
-                                            <li><a href="wishlist.html">Wishlist</a></li>
-                                            <li><a href="404.html">Error 404</a></li>
-                                            <li><a href="compare.html">compare</a></li>
-                                            <li><a href="privacy-policy.html">privacy policy</a></li>
-                                            <li><a href="coming-soon.html">coming soon</a></li>
+                                            <li><a href="about.php">About Us</a></li>
+                                            <li><a href="services.php">services</a></li>
+                                            <li><a href="faq.php">Frequently Questions</a></li>
+                                            <li><a href="login.php">login</a></li>
+                                            <li><a href="my-account.php">my account</a></li>
+                                            <li><a href="wishlist.php">Wishlist</a></li>
+                                            <li><a href="404.php">Error 404</a></li>
+                                            <li><a href="compare.php">compare</a></li>
+                                            <li><a href="privacy-policy.php">privacy policy</a></li>
+                                            <li><a href="coming-soon.php">coming soon</a></li>
                                         </ul>
                                     </li>
                                 </ul> 
@@ -462,7 +462,7 @@
                         </div>
                     </div>
                     <div class="logo_container">
-                        <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                        <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
                     </div>
                     <div class="right_menu">
                         <div class="main_menu"> 
@@ -470,8 +470,8 @@
                                 <ul>
                                     <li><a href="#">Specials</a></li>
                                     <li><a href="#">Sneaker</a></li>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="contact.php">Contact Us</a></li>
                                 </ul> 
                             </nav> 
                         </div>
@@ -490,26 +490,26 @@
                             <div class="main_menu"> 
                                 <nav>  
                                     <ul>
-                                        <li class="active"><a href="index.html">Home </a></li>
-                                        <li><a href="shop_category.html">shop </a></li>
-                                        <li><a href="about.html">About us</a></li>
+                                        <li class="active"><a href="index.php">Home </a></li>
+                                        <li><a href="shop_category.php">shop </a></li>
+                                        <li><a href="about.php">About us</a></li>
                                         <li><a href="#">pages <i class="fa fa-angle-down"></i></a>
                                             <ul class="sub_menu pages">
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="services.html">services</a></li>
-                                                <li><a href="faq.html">Frequently Questions</a></li>
-                                                <li><a href="login.html">login</a></li>
-                                                <li><a href="my-account.html">my account</a></li>
-                                                <li><a href="wishlist.html">Wishlist</a></li>
-                                                <li><a href="404.html">Error 404</a></li>
-                                                <li><a href="compare.html">compare</a></li>
-                                                <li><a href="privacy-policy.html">privacy policy</a></li>
-                                                <li><a href="coming-soon.html">coming soon</a></li>
+                                                <li><a href="about.php">About Us</a></li>
+                                                <li><a href="services.php">services</a></li>
+                                                <li><a href="faq.php">Frequently Questions</a></li>
+                                                <li><a href="login.php">login</a></li>
+                                                <li><a href="my-account.php">my account</a></li>
+                                                <li><a href="wishlist.php">Wishlist</a></li>
+                                                <li><a href="404.php">Error 404</a></li>
+                                                <li><a href="compare.php">compare</a></li>
+                                                <li><a href="privacy-policy.php">privacy policy</a></li>
+                                                <li><a href="coming-soon.php">coming soon</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog.html">blog</a></li>
+                                        <li><a href="blog.php">blog</a></li>
                                         
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>   
                                 </nav> 
                             </div>
@@ -529,7 +529,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_content">
                         <ul>
-                            <li><a href="index.html">home</a></li>
+                            <li><a href="index.php">home</a></li>
                             <li>/</li>
                             <li>blog details</li>
                         </ul>
@@ -577,40 +577,40 @@
                             <h3 class="widget_title">Recent Posts</h3>
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/post1.png" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/post1.png" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Blog image post format</a></h3>
+                                    <h3><a href="blog-details.php">Blog image post format</a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
                             </div>
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/post2.png" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/post2.png" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Post in Gallery format</a></h3>
+                                    <h3><a href="blog-details.php">Post in Gallery format</a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
                             </div> 
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/post3.png" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/post3.png" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Single post in Audio format </a></h3>
+                                    <h3><a href="blog-details.php">Single post in Audio format </a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
                             </div>
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/post4.png" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/post4.png" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Post in Video format vitae</a></h3>
+                                    <h3><a href="blog-details.php">Post in Video format vitae</a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
@@ -623,40 +623,40 @@
                             <h3 class="widget_title">Comments</h3>
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Blog image post format</a></h3>
+                                    <h3><a href="blog-details.php">Blog image post format</a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
                             </div>
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Post in Gallery format</a></h3>
+                                    <h3><a href="blog-details.php">Post in Gallery format</a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
                             </div> 
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Single post in Audio format </a></h3>
+                                    <h3><a href="blog-details.php">Single post in Audio format </a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
                             </div>
                             <div class="sidebar_post">
                                 <div class="post_img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/img/blog/comment.png.jpg" alt=""></a>
                                 </div>
                                 <div class="post_text">
-                                    <h3><a href="blog-details.html">Post in Video format vitae</a></h3>
+                                    <h3><a href="blog-details.php">Post in Video format vitae</a></h3>
                                     <span>March 3, 2018</span>
                                 </div>
                                 
@@ -878,11 +878,11 @@
                                 <h3>Information</h3>
                                 <div class="footer_menu">
                                     <ul>
-                                        <li><a href="about.html">About Us</a></li>
+                                        <li><a href="about.php">About Us</a></li>
                                         <li><a href="#">Delivery Information</a></li>
-                                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                                        <li><a href="privacy-policy.php">Privacy Policy</a></li>
                                         <li><a href="#">Terms & Conditions</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                         <li><a href="#">Returns</a></li>
                                     </ul>
                                 </div>
@@ -897,8 +897,8 @@
                                         <li><a href="#">Gift Certificates</a></li>
                                         <li><a href="#">Affiliate</a></li>
                                         <li><a href="#">Specials</a></li>
-                                        <li><a href="contact.html">Site Map</a></li>
-                                        <li><a href="my-account.html">My Account</a></li>
+                                        <li><a href="contact.php">Site Map</a></li>
+                                        <li><a href="my-account.php">My Account</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -956,7 +956,7 @@
                         <div class="footer_custom_links">
                             <ul>
                                 <li><a href="#">Order History</a></li>
-                                <li><a href="wishlist.html">Wish List</a></li>
+                                <li><a href="wishlist.php">Wish List</a></li>
                                 <li><a href="#">Newsletter</a></li>
                             </ul>
                         </div>

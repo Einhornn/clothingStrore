@@ -31,7 +31,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-4">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/1.logo.jpg" alt=""></a>
+                                <a href="index.php"><img src="assets/img/logo/1.logo.jpg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_content">
                         <ul>
-                            <li><a href="index.html">Trang chủ</a></li>
+                            <li><a href="index.php">Trang chủ</a></li>
                             <li>/</li>
                             <li>Đăng ký</li>
                         </ul>
@@ -116,7 +116,7 @@
                              </p>
                             <div class="login_submit">
                                 
-                                <a href="login.html" class="register-button">Đã có tài khoản? Đăng nhập</a>
+                                <a href="login.php" class="register-button">Đã có tài khoản? Đăng nhập</a>
                                 <button type="submit">Đăng ký</button>
                             </div>
                         </form>
@@ -139,9 +139,9 @@
                             <h3>Thông tin</h3>
                             <div class="footer_menu">
                                 <ul>
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="about.php">About Us</a></li>
                                     <li><a href="#">Chính sách vận chuyển</a></li>
-                                    <li><a href="contact.html">Liên hệ</a></li>
+                                    <li><a href="contact.php">Liên hệ</a></li>
                                     <li><a href="#">Đổi, trả hàng</a></li>
                                 </ul>
                             </div>
